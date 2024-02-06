@@ -21,4 +21,4 @@ async def on_message(message):
             count_heh = 5
         await message.channel.send("he" * count_heh)
         
-client.run("MTIwMTA2Nzk2NDE3MTAzODgxMQ.GY2vyd.ippQ7MTFKSaY3pFVvw1jRAUl3eFNQdG0aAYtYI ")
+client.run("token ")
